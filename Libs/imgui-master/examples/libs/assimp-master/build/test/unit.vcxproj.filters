@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\contrib\gtest\src\gtest-all.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\CCompilerTest.c">
+      <Filter>UnitTests\Compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\code\Common\Version.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utSimd.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utIOSystem.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utIOStreamBuffer.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utIssues.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utAnim.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\AssimpAPITest.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utBatchLoader.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utDefaultIOStream.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utFastAtof.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utMetadata.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\SceneDiffer.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\AbstractImportExportBase.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utTypes.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utVersion.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utProfiler.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utSharedPPData.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utStringUtils.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\Common\utLineSplitter.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utLWSImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utLWOImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utSMDImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utglTFImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utglTF2ImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utHMPImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utIFCImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utFBXImporterExporter.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utImporter.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\ImportExport\utExporter.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\ut3DImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\ut3DSImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utACImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utAMFImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utASEImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utD3MFImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utQ3DImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utSTLImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utXImporterExporter.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utX3DImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utDXFImporterExporter.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utPMXImporter.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utPLYImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utObjImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utObjTools.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utOpenGEXImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utSIBImporter.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utBlenderIntermediate.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utBlendImportAreaLight.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utBlenderImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utBlendImportMaterials.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utBlenderWork.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utBVHImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utColladaExportCamera.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utColladaExportLight.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utColladaImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utCSMImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utB3DImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utMDCImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utAssbinImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\ImportExport\utAssjsonImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\ImportExport\utCOBImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\ImportExport\utOgreImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\ImportExport\utQ3BSPFileImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\ImportExport\utOFFImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\ImportExport\utNFFImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\ImportExport\utXGLImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utMaterialSystem.cpp">
+      <Filter>UnitTests\Material</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utMatrix3x3.cpp">
+      <Filter>UnitTests\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utMatrix4x4.cpp">
+      <Filter>UnitTests\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utVector3.cpp">
+      <Filter>UnitTests\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utImproveCacheLocality.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utFixInfacingNormals.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utGenNormals.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utTriangulate.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utTextureTransform.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utRemoveRedundantMaterials.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utRemoveVCProcess.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utScaleProcess.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utJoinVertices.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utRemoveComments.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utRemoveComponent.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utVertexTriangleAdjacency.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utSplitLargeMeshes.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utFindDegenerates.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utFindInvalidData.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utLimitBoneWeights.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utPretransformVertices.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utScenePreprocessor.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utTargetAnimation.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utSortByPType.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utSceneCombiner.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\utGenBoundingBoxesProcess.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\SceneDiffer.h">
+      <Filter>UnitTests\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\UTLogStream.h">
+      <Filter>UnitTests\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\TestIOSystem.h">
+      <Filter>UnitTests\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\unit\TestModelFactory.h">
+      <Filter>UnitTests\Common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\VisualStudioProjects\ActoryEngine\libs\assimp-master\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{57136FB9-6058-36B7-BE5A-F3A38951D554}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitTests">
+      <UniqueIdentifier>{752F588B-27F6-3467-8873-A9C7E398CB99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitTests\Common">
+      <UniqueIdentifier>{DA6D18B8-94BA-3A85-BFF0-133B5453FBA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitTests\Compiler">
+      <UniqueIdentifier>{4EFF1D0A-B439-31F5-87A2-781873F7EEA9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitTests\ImportExport">
+      <UniqueIdentifier>{23301D99-EB78-3E44-996F-1E1015A8D199}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitTests\Material">
+      <UniqueIdentifier>{44094BE7-125A-3272-94AD-DDF6C413689A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitTests\Math">
+      <UniqueIdentifier>{39AC160E-55CB-38DB-9C18-1054BD31333A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitTests\PostProcess">
+      <UniqueIdentifier>{BBACFBDC-48E2-3AB3-8FB3-8E0457066AA4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

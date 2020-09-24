@@ -1,0 +1,13 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.15/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CheckFunctionExists.c
+C:/Program Files/CMake/share/cmake-3.15/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.15/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CheckTypeSize.c.in
+C:/Program Files/CMake/share/cmake-3.15/Modules/CheckTypeSize.cmake
+D:/VisualStudioProjects/ActoryEngine/libs/assimp-master/build/CMakeFiles/CheckTypeSize/OFF64_T.c
+D:/VisualStudioProjects/ActoryEngine/libs/assimp-master/contrib/zlib/CMakeLists.txt
+D:/VisualStudioProjects/ActoryEngine/libs/assimp-master/contrib/zlib/zconf.h.cmakein
+D:/VisualStudioProjects/ActoryEngine/libs/assimp-master/contrib/zlib/zlib.pc.cmakein
